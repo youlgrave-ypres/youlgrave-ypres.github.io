@@ -38,3 +38,5 @@ The whole assembly was transferred to St Martins Cathedral in Ypres for its inau
 After some months the two halves were separated, the Youlgrave section returning to All Saints Church in and the Ypres section remaining in the side chapel of St Martins.
 
 The intention is to exchange the halves from time to time.
+
+For in-depth information about the sculpture and its construction, go to [www.youlgreave-ypres.org.uk](https://www.youlgreave-ypres.org.uk/)
