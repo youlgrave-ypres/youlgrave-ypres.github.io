@@ -35,7 +35,7 @@ The design for the sculpture draws on a number of elements.
 
 In this form the sculpture was first erected in All Saints Youlgrave church in August 2018.
 The whole assembly was transferred to St Martins Cathedral in Ypres for its inauguration there on 19th August 2018.
-After some months the two halves were separated, the Youlgrave section returning to All Saints Church in and the Ypres section remaining in the side chapel of St Martins.
+After some months the two halves were separated, the Youlgrave section returning to All Saints Church and the Ypres section remaining in the side chapel of St Martins.
 
 The intention is to exchange the halves from time to time.
 
