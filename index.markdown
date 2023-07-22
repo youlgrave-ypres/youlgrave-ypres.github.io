@@ -30,7 +30,7 @@ The design for the sculpture draws on a number of elements.
 
 - Its theme is the link between Youlgrave and Ypres forged during WW1.
 - Its foundation is 4 replica war grave headstones.
-- Above the stones sit two semicircular tables embracing twin sculptures of the spire and tower of the towns principal churches.
+- Above the stones sit two semicircular tables embracing twin sculptures of the spire and tower of each town's principal church.
 - Embracing the sculptures, four quadrants link the towers and tables.
 
 In this form the sculpture was first erected in All Saints Youlgrave church in August 2018.
