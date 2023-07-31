@@ -22,8 +22,6 @@ title: Youlgrave-Ypres Memorial
 email: jeremy@jeremyhewitt.co.uk
 description: >-
   A landing page for the Youlgrave-Ypres memorial
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: none
 show_excerpts: "true"
 author:
