@@ -33,9 +33,9 @@ The design for the sculpture draws on a number of elements.
 - Above the stones sit two semicircular tables embracing twin sculptures of the spire and tower of each town's principal church.
 - Embracing the sculptures, four quadrants link the towers and tables.
 
-In this form the sculpture was first erected in All Saints Youlgreave church in August 2018.
-The whole assembly was transferred to St Martins Cathedral in Ypres for its inauguration there on 19th August 2018.
-After some months the two halves were separated, the Youlgreave section returning to All Saints Church and the Ypres section remaining in the side chapel of St Martins.
+In this form the sculpture was first erected in All Saints' Youlgreave church in August 2018.
+The whole assembly was transferred to St Martin's Cathedral in Ypres for its inauguration there on 19th August 2018.
+After some months the two halves were separated, the Youlgreave section returning to All Saints' Church and the Ypres section remaining in the side chapel of St Martin's.
 
 The intention is to exchange the halves from time to time.
 
