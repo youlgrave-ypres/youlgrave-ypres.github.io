@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Youlgreave-Ypres Memorial Sculpture
 ---
@@ -38,5 +35,3 @@ The whole assembly was transferred to St Martin's Cathedral in Ypres for its ina
 After some months the two halves were separated, the Youlgreave section returning to All Saints' Church and the Ypres section remaining in the side chapel of St Martin's.
 
 The intention is to exchange the halves from time to time.
-
-For in-depth information about the sculpture and its construction, go to [www.youlgreave-ypres.org.uk](https://www.youlgreave-ypres.org.uk/)
