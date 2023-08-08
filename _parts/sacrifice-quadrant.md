@@ -29,3 +29,5 @@ The bi-plane
 
 The Carrier Pigeon
 : Some of the communication 'technology' employed 100 years ago - though like modern day drones, this one carries a small camera.
+
+{% include previous_next.html %}

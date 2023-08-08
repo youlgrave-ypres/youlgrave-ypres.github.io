@@ -17,3 +17,5 @@ The naïvely drawn house, road and poppies allude to some of the designs submitt
 This scene continues onto the other semicircle to be followed by the outline of the Menin Gate in Ypres - over this is outlined an aerial view of the circular rows of headstones to be found at Tyne Cott Memorial.
 
 The next section features the Union Jack before leading into a depiction, mainly in plain textured glass of one of the roundels in the Rennie Waterhouse memorial window this continues into the other half thus completing the full circle.
+
+{% include previous_next.html %}

@@ -22,11 +22,15 @@ title: Youlgrave-Ypres Memorial
 email: jeremy@jeremyhewitt.co.uk
 description: >-
   Information about the Youlgrave-Ypres memorial
-permalink: none
+permalink: /:title
 show_excerpts: "true"
 author:
   name: Jeremy Hewitt
   email: jeremy@jeremyhewitt.co.uk
+
+collections:
+  parts:
+    permalink: /:collection/:path
 
 # Build settings
 remote_theme: jekyll/minima
