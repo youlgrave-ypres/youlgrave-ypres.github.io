@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Roll of the fallen
+title: Roll of the Fallen
 ---
 
 Known Youlgreave soldiers in Belgium are:
