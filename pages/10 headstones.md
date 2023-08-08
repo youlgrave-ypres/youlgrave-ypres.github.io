@@ -11,7 +11,10 @@ Regiments were allowed a limited number of designated “Battle Honours” to be
 
 The Honours were carved by the grandson of one of the stonemasons who carved some of the original headstones.
 
-![](/assets/images/headstones/P1010884.jpg)
-![](/assets/images/headstones/P1010887.jpg)
-![](/assets/images/headstones/P1010885.jpg)
-![](/assets/images/headstones/P1010886.jpg)
+assets/images/headstones/headstone carver.jpg
+
+
+![](/assets/images/headstones/headstone carver.jpg)
+![](/)
+![](/)
+
