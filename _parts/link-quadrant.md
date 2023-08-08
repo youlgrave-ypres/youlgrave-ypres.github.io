@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: Link Quadrant
 ---
 
@@ -23,5 +23,3 @@ All Saints' Church, Youlgreave
 
 The Red, White and Blue Flag
 : Based on the Regimental Colours of 1/6th Battalion Notts and Derby (Sherwood Foresters) Regiment. The colours are laid up in the Church of St Mary and All Saints, Chesterfield (Crooked Spire Church). Men from Youlgreave Parish served in this local battalion.
-
-{% include previous_next.html %}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: Centenary Quadrant
 ---
 
@@ -34,5 +34,3 @@ World
 Local Stone
 : The five slivers of stone are from the centre out: Limestone; Galena (lead ore); Stalactite Section; Sedimentary Calcite; Sandstone.
 The first four were obtained from the mineral cave system under a house in Middleton-by-Youlgreave in June 2018, whilst a small section of Derbyshire Blue John from Treak Cliff Cavern is adjacent the League of Nations cross.
-
-{% include previous_next.html %}

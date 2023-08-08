@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: Peace Quadrant
 ---
 
@@ -33,5 +33,3 @@ The Lions
   A pair of stone lions dating back to 1822 stood at the old Menin Gate prior to WW1. At the War Memorial in Ypres a cast lion stands guard as a soldier is carried heavenwards.
   
   Atop the Menin Gate a 'British' Lion rests on guard, whilst on the railings fine bronze lions sit steadfast - this stained glass shows the head of one of them.
-
-{% include previous_next.html %}

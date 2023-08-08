@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: Maquette
 ---
 
@@ -12,5 +12,3 @@ After much discussion we decided a table was needed to display the sculpture, it
 ![](/assets/images/maquette/IMG_8218-filtered.jpg)
 
 ![](/assets/images/maquette/IMG_20171030_172005344.jpg)
-
-{% include previous_next.html %}

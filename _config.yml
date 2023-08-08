@@ -30,6 +30,7 @@ author:
 
 collections:
   parts:
+    output: true
     permalink: /:collection/:path
 
 # Build settings
