@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Youlgrave-Ypres Memorial
-email: jeremy@jeremyhewitt.co.uk
+email: info@youlgreave-ypres.org.uk
 description: >-
   Information about the Youlgrave-Ypres memorial
 permalink: /:title
 show_excerpts: "true"
 author:
-  name: Jeremy Hewitt
-  email: jeremy@jeremyhewitt.co.uk
+  name: Youlgreave-Ypres
+  email: info@youlgreave-ypres.org.uk
 
 collections:
   parts:
