@@ -11,7 +11,7 @@ Installation was in the Cathedral, Ypres, Belgium on the 19th August.
 
 The sculpture has been designed to split into two halves so each can be displayed in both Churches after November 2018
 
-[The inaugural assembley](
+[The inaugural assembly](
 http://www.youtube.com/watch?v=Ibal5EGBJ3c)
 
 ### Youlgreave 1914-1918 Community Group.
