@@ -19,7 +19,7 @@ Known Youlgreave soldiers in Belgium are:
 
 ![](/assets/images/roll-of-the-fallen-/074-filtered.jpg)
 
-The Wm Tablet was not dedicated until Sunday Nov 8 1925-some 7 years after the Armistice, and was not THE W.M. -it was an 'after thought'. (Youlgreave Church)
+The Youlgreave Church War Memorial Tablet was not dedicated until Sunday Nov 8 1925-some 7 years after the Armistice, and was not the official War Memorial; it was an 'after thought'. 
 
 ![](/assets/images/roll-of-the-fallen-/018 1 1.jpg)
 
