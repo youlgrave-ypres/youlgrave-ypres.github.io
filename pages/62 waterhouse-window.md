@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Waterhouse Window
+title: The Waterhouse Window
 ---
 
 The story begins in 1922 when Charles Waterhouse installed two stained glass windows and a banner in Youlgrave All Saints church in memory of his brother Rennie Compton Waterhouse who was killed at Gallipoli in 1915. The stained glass for the windows was gathered from the ruins of Ypres Cathedral in Belgium and now exists in the beautiful stained glass memorial windows.
