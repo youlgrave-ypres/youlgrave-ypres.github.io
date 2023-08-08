@@ -1,4 +1,4 @@
 {% assign atopics = site[include.collection] %}
 {% for atopic in atopics %}
-  - [{{ atopic.title }}]({{ atopic.url }})
+<li><a href="{{ atopic.url }}">{{ atopic.title }}</a></li>
 {% endfor %}

@@ -4,6 +4,11 @@ dd { padding-left: 1em }
 .center { margin: 0 auto; display: block; }
 .text-center { text-align: center; }
 
+ul.menu-list li { display: inline; }
+ul.menu-list li:not(:last-child) {
+  margin-right: 10px;
+}
+
 .PageNavigation {
   display: block;
   width: auto;

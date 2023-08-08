@@ -5,4 +5,6 @@ permalink: /parts/index.html
 ---
 These are the parts
 
-{% include collection_list.md collection='parts' %}
+<ul>
+{% include collection_list.html collection='parts' %}
+</ul>
