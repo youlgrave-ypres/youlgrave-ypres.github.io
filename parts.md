@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Parts
-permalink: /parts/index.html
+permalink: /parts/
 ---
 These are the parts
 
