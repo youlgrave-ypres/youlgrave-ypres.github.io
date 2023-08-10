@@ -1,6 +1,6 @@
 ---
 layout: page
-title: St Martin's Ypres
+title: Inauguration at St Martin's Ypres
 ---
 
 We were given pride of place in the Cathedral for the installation on the Saturday morning, ready for the service on the Sunday. 
