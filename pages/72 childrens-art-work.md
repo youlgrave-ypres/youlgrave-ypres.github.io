@@ -3,7 +3,7 @@ layout: page
 title: Children's art work
 ---
 
-Primary Children from our local Village school were ask to draw and write about the ww1 so we could put their ideas into the sculpture and as you can see with some success.
+Primary Children from our local Village school were ask to draw and write about the WW1 so we could put their ideas into the sculpture. As you can see, with great success.
 
 ![](/assets/images/childrens-art-work/P1020028.jpg)
 ![](/assets/images/childrens-art-work/P1010888.jpg)
