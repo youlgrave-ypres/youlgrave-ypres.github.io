@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Youlgrave Band
+title: Youlgrave Silver Band
 ---
 
-One of the two coaches transported the band which played in the Square ( we were 2hrs late ) within 45 mins of us arriving...... such commitment. One of the many highlights was the band playing under the Menin Gate before and after the last post on the Sunday evening.
+Youlgrave Silver Band were proud to accompany the sculpture on its journey to Ypres. They played in the town squares of Ypres and Popperinge, at the services in the Cathedral and at the Menin Gate.
+The band played in the Town Square within 45 mins of their arrival in Ypres...... such commitment. One of their many highlights was playing under the Menin Gate before and after the last post on the Sunday evening.
 
 ![](/assets/images/youlgrave-band-/IMG_0654-1-filtered.jpg)
 
-The band played 6 times in all during the visit.... playing the Last Post at some of the cemeteries on either of the two WWI Bugles the band brought over ... very moving.
+The band played 6 times in all during the visit.... playing the Last Post at some of the cemeteries on one or the other of two WWI Bugles they brought with them ...   a very moving experience for them and all who heard it.
 
 ![](/assets/images/youlgrave-band-/P1020196-filtered.jpg)
 ![](/assets/images/youlgrave-band-/P1020122.jpg)
