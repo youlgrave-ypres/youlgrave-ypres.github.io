@@ -10,7 +10,7 @@ This event has linked the communities of Youlgrave and Ypres since that time. 20
 
 The Youlgreave-Ypres Memorial Sculpture was presented to the people of Ypres at a ceremony in Ypres Cathedral in August 2018.
 
-The project was conceived by the Youlgreave 1914-18 Committee which itself had been created in 2014 to highlight the then upcoming centenaries of the significant events of the 1st World War that had been participated in by many of Youlgrave's sons and those of surrounding parishes.
+The project was conceived by the Youlgreave 1914-18 Community Group which itself had been created in 2014 to highlight the then upcoming centenaries of the significant events of the 1st World War that had been participated in by many of Youlgrave's sons and those of surrounding parishes.
 
 
 ![](/assets/images/waterhouse-window/P1010875.jpg)
