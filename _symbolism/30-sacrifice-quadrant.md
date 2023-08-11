@@ -1,6 +1,7 @@
 ---
 layout: sequence
 title: Sacrifice Quadrant
+slug: sacrifice-quadrant
 ---
 
 ![](/assets/images/sacrifice-q/Sacrifice 1.jpg)

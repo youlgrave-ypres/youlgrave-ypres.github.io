@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Can you find?
+slug: can-you-find
 ---
 
 Can we set you a challenge to find the following topics represented in the glass?

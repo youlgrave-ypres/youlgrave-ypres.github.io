@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Woodwork
+slug: woodwork
 ---
 
 Approximately 500hrs of work lay ahead for Martin ..... did he ever move out of his workshop in Sheffield?

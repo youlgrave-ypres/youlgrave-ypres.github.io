@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Actors and Agents
-permalink: /actors
+slug: actors
 ---
 This section acknowledges and accords thanks to those who created and supported this project.
 

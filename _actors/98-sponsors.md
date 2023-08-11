@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sponsors
+slug: sponsors
 ---
 
 We are endlessly grateful to all the people from the community who have supported, and are continuing to support, our project in any way and especially appreciative of the hundreds of hours of work which have been committed.

@@ -1,6 +1,7 @@
 ---
 layout: sequence
 title: Link Quadrant
+slug: link-quadrant
 ---
 
 ![](/assets/images/link-q/Link 1a.jpg)

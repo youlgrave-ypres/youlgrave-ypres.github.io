@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cemeteries
+slug: cemetaries
 ---
 
 We visited many small cemeteries looking and finding relatives’ graves or names soldiers from our surrounding villages.

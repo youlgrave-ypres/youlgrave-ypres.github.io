@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design and Implementation
-permalink: /design
+slug: design
 ---
 The following pages describe the conception of and making the commemorative sculpture in Youlgrave
 

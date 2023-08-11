@@ -22,22 +22,25 @@ title: Youlgrave-Ypres Memorial
 email: info@youlgreave-ypres.org.uk
 description: >-
   Information about the Youlgrave-Ypres memorial
-permalink: /:title
+permalink: none
 show_excerpts: "true"
 author:
   name: Youlgreave-Ypres
   email: info@youlgreave-ypres.org.uk
 
 collections:
+  pages:
+    output: true
+    permalink: /:title
   symbolism:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:title
   design:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:title
   actors:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:title
 
 # Build settings
 remote_theme: jekyll/minima

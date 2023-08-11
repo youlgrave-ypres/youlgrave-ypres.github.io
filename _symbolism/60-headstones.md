@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Headstones
+slug: headstones
 ---
 
 These four stones are based on the Commonwealth War Grave Commission (formerly Imperial War Grave Commission) headstones – but 30% reduced in face size.

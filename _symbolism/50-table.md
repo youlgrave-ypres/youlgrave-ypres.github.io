@@ -1,6 +1,7 @@
 ---
 layout: sequence
 title: Table
+slug: table
 ---
 
 ![](/assets/images/table-/Table Flanders Fields_1.jpg)

@@ -1,6 +1,7 @@
 ---
 layout: sequence
 title: Centenary Quadrant
+slug: centenary-quadrant
 ---
 
 ![](/assets/images/centenary-q/Commemoration 1a.jpg)

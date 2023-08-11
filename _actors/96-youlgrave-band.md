@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Youlgrave Silver Band
+slug: youlgreave-silver-band
 ---
 
 Youlgrave Silver Band were proud to accompany the sculpture on its journey to Ypres. They played in the town squares of Ypres and Popperinge, at the services in the Cathedral and at the Menin Gate.

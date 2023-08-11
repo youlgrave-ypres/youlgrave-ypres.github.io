@@ -1,6 +1,7 @@
 ---
 layout: sequence
 title: Peace Quadrant
+slug: peace-quadrant
 ---
 
 ![](/assets/images/peace-q/Peace 1.jpg)

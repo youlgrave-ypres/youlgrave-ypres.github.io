@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Design Competition
+slug: design-competition
 ---
 
 Phil Smith entered the competition within the three local parishes to design a 3D sculpture which would stand alone when split into two halves......  he won, below is his concept on how the sculpture should work .

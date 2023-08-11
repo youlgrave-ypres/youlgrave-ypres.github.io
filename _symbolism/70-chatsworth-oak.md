@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chatsworth Oak
+slug: chatsworth-oak
 ---
 
 The oak was from a storm damaged tree which had been down for couple of years.

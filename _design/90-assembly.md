@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Assembly
+slug: assembly
 ---
 
 ![](/assets/images/home/MG_7264-filtered.jpg)
