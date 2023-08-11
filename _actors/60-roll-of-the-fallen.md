@@ -4,6 +4,8 @@ title: Roll of the Fallen
 slug: roll-of-the-fallen
 ---
 
+The Roll of the Fallen in Youlgrave church was a useful source of information for this task.
+
 Known Youlgreave soldiers in Belgium are:
 
 - L/Cpl 21429  William Wragg Sherwood Foresters 31-07-1917 Menin Gate 
