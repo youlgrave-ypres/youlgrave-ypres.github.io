@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: Roll of the Fallen
 slug: roll-of-the-fallen
 ---
