@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: Youlgrave Silver Band
 slug: youlgreave-silver-band
 ---
