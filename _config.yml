@@ -29,7 +29,13 @@ author:
   email: info@youlgreave-ypres.org.uk
 
 collections:
-  parts:
+  symbolism:
+    output: true
+    permalink: /:collection/:path
+  design:
+    output: true
+    permalink: /:collection/:path
+  actors:
     output: true
     permalink: /:collection/:path
 
