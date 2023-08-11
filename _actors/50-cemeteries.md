@@ -4,14 +4,14 @@ title: Cemeteries
 slug: cemetaries
 ---
 
-We visited many small cemeteries looking and finding relatives’ graves or names soldiers from our surrounding villages.
+The Group investigated many small cemeteries looking and finding relatives’ graves or names soldiers from our surrounding villages so that they could be visited at the time of the the inauguration visit
 
 ![](/assets/images/cemeteries-/P1020115-filtered.jpg)
 ![](/assets/images/cemeteries-/P1020227.jpg)
 ![](/assets/images/cemeteries-/P1020235-filtered.jpg)
 ![](/assets/images/cemeteries-/P1020234.jpg)
 
-The main cemeteries we visited were at 
+The main cemeteries we visited were 
 
 - Tyne Cot 
 
