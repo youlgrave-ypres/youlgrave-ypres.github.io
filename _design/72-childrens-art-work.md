@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: Children's art work
 slug: childrens-art-work
 ---
