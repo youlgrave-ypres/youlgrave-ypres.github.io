@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: Youlgreave 1914-1918 Community Group
 slug: youlgreave-1914-1918-community-group
 ---
