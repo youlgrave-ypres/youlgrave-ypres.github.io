@@ -4,7 +4,7 @@ title: Woodwork
 slug: woodwork
 ---
 
-Approximately 500hrs of work lay ahead for Martin ..... did he ever move out of his workshop in Sheffield?
+Approximately 500hrs of work lay ahead for Martin Hill ..... did he ever move out of his workshop in Sheffield?
 
 He was an engineer before becoming a teacher but self taught as a woodworker. Martin had a engaging time sorting out many problems on the way, including forming of the quadrants each laminated out of 16 strips of oak which had to be persuaded into the bell shapes. The table itself made from glued blocks of oak to form the semi circles and then faced with 6mm of steam bent quarter sawn english oak.
 
