@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: Chatsworth Oak
 slug: chatsworth-oak
 ---
