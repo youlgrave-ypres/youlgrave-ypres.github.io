@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: Assembly
 slug: assembly
 ---
