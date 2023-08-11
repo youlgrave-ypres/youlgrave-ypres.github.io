@@ -29,7 +29,7 @@ Headstones
   These headstones depict some of the different religions they cover.
 
 The Lions
-: The Belgian Lion, like the British Lion are a symbol of national pride.
+: The Belgian Lion, like the British Lion is a symbol of national pride.
 
   A pair of stone lions dating back to 1822 stood at the old Menin Gate prior to WW1. At the War Memorial in Ypres a cast lion stands guard as a soldier is carried heavenwards.
   
