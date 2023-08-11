@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: Inauguration at St Martin's Ypres
 slug: inauguration-at-st-martins-ypres
 ---
