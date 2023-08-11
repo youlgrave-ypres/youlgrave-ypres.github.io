@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: The Design Competition
 slug: design-competition
 ---
