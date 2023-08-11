@@ -8,9 +8,9 @@ The story begins in 1922 when Charles Waterhouse commissioned two stained glass 
 
 This event has linked the communities of Youlgrave and Ypres since that time. 2018 being the 100th anniversary of the end of WW1, was an opportunity to cement the established link and take it on in the future.
 
-The Youlgreave-Ypres Memeorial Ssculpture was presented to the people of Ypres at a ceremony in Ypres Cathedral in August 2018.
+The Youlgreave-Ypres Memorial Ssculpture was presented to the people of Ypres at a ceremony in Ypres Cathedral in August 2018.
 
-For the inauguration service some 100 visitors travelled to Ypres from Youlgrave.  They comprised of The Youlgrave Silver Band, Youlgreave Bell Ringers, Youlgrave Community members and the Team involved in making this beautiful sculpture.
+The project was conceived by the Youlgreave 1914-18 Committee which itself had been created in 2014 to highlight the then upcoming centenaries of the significant events of the 1st World War that had been participated in by many of Youlgrave's sons and those of surrounding parishes.
 
 
 ![](/assets/images/waterhouse-window/P1010875.jpg)
