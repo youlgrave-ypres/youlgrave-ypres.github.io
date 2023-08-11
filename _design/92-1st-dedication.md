@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sequence
 title: 1st Dedication
 slug: 1st-dedication
 ---
