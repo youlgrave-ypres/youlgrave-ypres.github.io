@@ -4,8 +4,8 @@ title: Youlgreave 1914-1918 Community Group
 slug: youlgreave-1914-1918-community-group
 ---
 
-
-The group’s ideas grew into the presentation of a sculpture to Ypres Cathedral and community in Belgium on 19th August 2018. It was accompanied by some 100 residents of Youlgreave and around, including the Youlgrave Silver Band,  All Saints Bell ringers  and a TV crew. 
+From 2014 until 2018 the Group organised many events and services and researched, in particular, those local soldiers who lost their lives for their country. Appropriate services of remembrance were held to honour each brave man lost.
+During this time the Group considered how best to commemorate the cessation of hostilities and the subsequent Armistice. Their ideas grew into a project to present a sculpture to Ypres Cathedral and community in Belgium on 19th August 2018. 
 The band played many concerts and the last post on two WW1 bugles and the ringers, supported by the best from over the country, rang a unique peal over 3hrs.
 
 The sculpture is of oak, stone and stained glass, 2m x 1m x 1m, designed and built by village volunteers with help, and donations of materials from many interested local craftsmen. Some volunteers already had skills, but many trained just for this project.
