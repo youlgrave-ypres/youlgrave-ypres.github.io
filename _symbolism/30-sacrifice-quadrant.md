@@ -15,7 +15,7 @@ Battlefields
 : Amongst the dips and hollows of the battlefields lie soldiers - they died fighting for their beliefs - their spirits ascending to a better world.
 
 Poppies
-: They grow aplenty in the fields, and Canadian doctor, John MaCrae serving near Ypres in 1915 wrote the famous poem, 'In Flanders Fields where poppies grow'.
+: They grow aplenty in the fields, and Canadian doctor, John MaCrae serving near Ypres in 1915 wrote the famous poem, 'In Flanders Fields'.
 
 Rivers Yser and Bradford
 : Water courses run through every land. Around Ypres in the River Yser and Yser canal; in Youlgreave we have the Rivers Bradford and Lathkill.
