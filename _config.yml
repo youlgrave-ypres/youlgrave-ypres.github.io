@@ -38,7 +38,7 @@ collections:
   design:
     output: true
     permalink: /:collection/:title
-  actors:
+  background-story:
     output: true
     permalink: /:collection/:title
 

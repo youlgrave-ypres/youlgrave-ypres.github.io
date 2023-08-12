@@ -7,5 +7,5 @@ Each element of the sculpture is symbolic.  A symbolism drawn from the respectiv
 Some of the more important symbolisms are explained in the following pages.
 
 <ul>
-{% include collection_list.html collection='symbolism' %}
+{% include collection_list.html collection=page.slug %}
 </ul>
