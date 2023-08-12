@@ -17,7 +17,7 @@ The finished sculpture stood in the church in Youlgrave in August 2018, before i
 
 A competition was held in summer 2017, through the villages or Youlgrave, Alport, Middleton, Stanton, and Birchover, with leaflets to every house inviting anyone to submit ideas in any way they wanted, so the design could truly be from the people.
 
-![Competion entry leaflet](/assets/images/community-group/design-competition-leaflet-1.jpg)
+![Competion entry leaflet](assets/images/community-group/Design-competition-leaflet-1.jpg)
 ![](/assets/images/community-group/design-competition-leaflet-2.jpg)
 
 Many of the ideas submitted are incorporated, particularly from the children, such as the three crosses, the faceless soldier and the river running through. There is even a full representation of a child’s drawing in the panels.
