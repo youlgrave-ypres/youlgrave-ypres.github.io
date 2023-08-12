@@ -6,7 +6,7 @@ slug: youlgreave-1914-1918-community-group
 
 From 2014 until 2018 the Group organised many events and services and researched, in particular, those local soldiers who lost their lives for their country.
 
-174,000 service personnel from the UK and Ireland gave their lives in Flanders during the Great War,  This includes 7 from Youlgreave and district.
+174,000 service personnel from the UK and Ireland gave their lives in Flanders during the Great War,  this includes 7 from Youlgreave and district.
 Appropriate services of remembrance were held to honour each brave man lost.
 
 During this time of reflection the Group considered how best to commemorate the cessation of hostilities and the subsequent Armistice. Their ideas grew into a project to present a sculpture to Ypres Cathedral and community in Belgium on 19th August 2018. 
