@@ -8,7 +8,7 @@ permalink: /qr2
 
 ## On display
 
-The sculpture on display here in Ypres is made up of the [Sacrifice](symbolism/sacrifice-quadrant) and [Peace](symbolism/peace-quadrant) quadrants.
+The sculpture on display here is made up of the [Sacrifice](symbolism/sacrifice-quadrant) and [Peace](symbolism/peace-quadrant) quadrants.
 
 If you look closely at the stained glass section, can you find...
 

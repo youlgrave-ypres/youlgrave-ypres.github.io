@@ -8,7 +8,7 @@ permalink: /qr1
 
 ## On display
 
-The sculpture on display here in Ypres is made up of the [Centenary](symbolism/centenary-quadrant) and [Link](symbolism/link-quadrant) quadrants.
+The sculpture on display here is made up of the [Centenary](symbolism/centenary-quadrant) and [Link](symbolism/link-quadrant) quadrants.
 
 If you look closely at the stained glass section, can you find...
 
