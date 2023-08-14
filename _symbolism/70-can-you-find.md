@@ -42,4 +42,4 @@ Can we set you a challenge to find the following topics represented in the glass
 
 17. A plan of the battle lines of the Western Front and the locations of many of the cemeteries for the soldiers killed in battle there.
 
-18. Derbyshire Limestone, Fluorspar, Galena and Gritstone.  Also, Blue John, a form of fluorspar often used for jewellry
+18. Derbyshire Limestone, Fluorspar, Galena and Gritstone.  Also, Blue John, a form of fluorspar often used for jewellery.
